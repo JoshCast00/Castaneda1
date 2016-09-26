@@ -1,1 +1,3 @@
 # Castaneda1
+
+In the next two months, I want to build an app that can be used in a phone and can be used in both Android OS and iOS. The app will be able to use Augumented Reality technologies and be able to immerse the users into a reality world of Fantasy. It will turn what every you command it to do into a reaity. If you want the app to take you into a far away planet it will take you to that planet and based off of knowledge in the internet it will display it as best as possible. You can ask the system to do what ever you want and it will make your imagination become a reality.
